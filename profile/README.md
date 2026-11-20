@@ -1,5 +1,4 @@
-<img width="3090" height="1070" alt="1000074153" src="https://github.com/user-attachments/assets/513f028a-d989-415d-a8c3-8c0f3f02fcdd" />
-
+<img width="1920" height="472" alt="1000074720" src="https://github.com/user-attachments/assets/e876b516-aff8-4b0f-add4-620d474f9040" />
 <div align="center">
 
 # KageBytes
@@ -19,4 +18,3 @@ We build, experiment, document, and share.
 - 🛠️ Open-Source Tools
 - 📚 Documentation & Writeups
 - 🧪 Experimental Projects
-- 
