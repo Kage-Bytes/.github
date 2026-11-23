@@ -4,10 +4,7 @@
 # KageBytes
 
 
-KageBytes is an independent open-source organization exploring the
-intersection of software development, cybersecurity, technical research,
-and emerging technologies.
-
+An independent open-source organization dedicated to cybersecurity, security engineering, software development, and technical research.
 We build, experiment, document, and share.
 
 
