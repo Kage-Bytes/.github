@@ -1,5 +1,4 @@
-<img width="1920" height="472" alt="1000074720" src="https://github.com/user-attachments/assets/e876b516-aff8-4b0f-add4-620d474f9040" />
-<div align="center">
+[![Banner](banner3.png)](https://kagebytes.vercel.app/)
 
 # KageBytes
 
