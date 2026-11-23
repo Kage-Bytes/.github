@@ -1,4 +1,4 @@
-[![Banner](banner3.png)](https://kagebytes.vercel.app/)
+[![Banner](banner.png)](https://kagebytes.vercel.app/)
 
 # KageBytes
 
